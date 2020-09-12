@@ -6,7 +6,7 @@ There are two ways you can contribute to this project. You can either contribute
 
 For both scenarios the setup is the same, however, the contribution steps differ slightly.
 
-## I've Never Contributed to Open Source
+## Oh no! I've Never Contributed to Open Source! 
 
 ![decorative banner image for TwilioQuest mission](./docs/twilio-quest-oss-banner.png)
 
